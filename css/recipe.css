@@ -1,0 +1,14 @@
+body {
+  background-color: #fff8ef;
+  font-family: "Times New Roman", Helvetica, sans-serif;
+}
+img {
+  height: auto;
+  width: 500px;
+  border: 1px solid black;
+}
+ol,
+ul {
+  background-color: white;
+  border: 1px solid black;
+}
